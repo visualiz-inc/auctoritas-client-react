@@ -1,0 +1,20 @@
+module.exports = {
+  name: '@ Auctoritas/ Auctoritas-react',
+  out: './docs/',
+  toc: [
+    'useClient',
+    'with Auctoritas',
+    'withAuthenticationRequired',
+    ' AuctoritasProvider',
+    'ClientContext',
+    ' AuctoritasProviderOptions',
+    'ClientContextInterface',
+    'With AuctoritasProps',
+    'WithAuthenticationRequiredOptions',
+  ],
+  exclude: ['./src/utils.tsx', './src/reducer.tsx', './src/auth-state.tsx'],
+  excludeExternals: false,
+  excludePrivate: true,
+  hideGenerator: true,
+  readme: './README.md',
+};

@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name:  Auctoritas Community
+    url: https://community. Auctoritas.com/c/sdks/5
+    about: Discuss this SDK in the  Auctoritas Community forums
+  - name: FAQ
+    url: https://github.com/ Auctoritas/ Auctoritas-react/blob/master/FAQ.md
+    about: Read the FAQ to get answers to common issues
+  - name: SDK API Documentation
+    url: https:// Auctoritas.github.io/ Auctoritas-react/
+    about: Read the API documentation for this SDK
+  - name: Library Documentation
+    url: https:// Auctoritas.com/docs/libraries/ Auctoritas-react
+    about: Read the library docs on  Auctoritas.com
