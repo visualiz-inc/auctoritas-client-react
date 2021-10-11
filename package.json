@@ -1,7 +1,7 @@
 {
   "author": "Auctoritas",
-  "name": "@auctoritas/auctoritas-react",
-  "version": "1.8.0",
+  "name": "auctoritas-auctoritas-react",
+  "version": "0.0.3",
   "description": " Auctoritas SDK for React Single Page Applications (SPA)",
   "keywords": [
     "Auctoritas",
@@ -86,6 +86,6 @@
     "react-dom": "^16.11.0 || ^17"
   },
   "dependencies": {
-    "@auctoritas/client-vanilla": "link:../auctoritas-client-vanilla"
+    "auctoritas-client-vanilla": "^0.0.4"
   }
 }
