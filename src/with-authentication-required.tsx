@@ -1,5 +1,5 @@
 import React, { ComponentType, useEffect, FC } from 'react';
-import { RedirectLoginOptions, User } from '@auctoritas/client-vanilla';
+import { RedirectLoginOptions, User } from 'auctoritas-client-vanilla';
 import useClient from './use-auctoritas';
 
 /**

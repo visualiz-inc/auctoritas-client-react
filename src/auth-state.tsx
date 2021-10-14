@@ -1,4 +1,4 @@
-import { User } from '@auctoritas/client-vanilla';
+import { User } from 'auctoritas-client-vanilla';
 
 /**
  * The auth state which, when combined with the auth methods, make up the return object of the `useClient` hook.

@@ -11,7 +11,7 @@ import {
   RedirectLoginOptions as  AuctoritasRedirectLoginOptions,
   RedirectLoginResult,
   User,
-} from '@auctoritas/client-vanilla';
+} from 'auctoritas-client-vanilla';
 import { createContext } from 'react';
 import { AuthState, initialAuthState } from './auth-state';
 

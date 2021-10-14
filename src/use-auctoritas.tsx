@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { User } from '@auctoritas/client-vanilla';
+import { User } from 'auctoritas-client-vanilla';
 import ClientContext, { ClientContextInterface } from './auctoritas-context';
 
 /**

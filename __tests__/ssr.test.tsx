@@ -5,7 +5,7 @@ import React from 'react';
 import ReactDOMServer from 'react-dom/server';
 import {  AuctoritasProvider, ClientContext } from '../src';
 
-jest.unmock('@auctoritas/client-vanilla');
+jest.unmock('auctoritas-client-vanilla');
 
 describe('In a Node SSR environment', () => {
   it('auth state is initialised', async () => {

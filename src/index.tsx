@@ -29,5 +29,5 @@ export {
   InMemoryCache,
   LocalStorageCache,
   Cacheable,
-} from '@auctoritas/client-vanilla';
+} from 'auctoritas-client-vanilla';
 export { OAuthError } from './errors';

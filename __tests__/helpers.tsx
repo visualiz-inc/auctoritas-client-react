@@ -1,5 +1,5 @@
 /* eslint-disable react/display-name */
-import {  AuctoritasClientOptions } from '@auctoritas/client-vanilla';
+import {  AuctoritasClientOptions } from 'auctoritas-client-vanilla';
 import React, { PropsWithChildren } from 'react';
 import  AuctoritasProvider from '../src/auctoritas-provider';
 

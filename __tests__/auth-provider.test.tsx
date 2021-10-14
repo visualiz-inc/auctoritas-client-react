@@ -2,7 +2,7 @@ import { useContext } from 'react';
 import { mocked } from 'ts-jest/utils';
 import ClientContext from '../src/auctoritas-context';
 import { renderHook, act } from '@testing-library/react-hooks';
-import {  AuctoritasClient } from '@auctoritas/client-vanilla';
+import {  AuctoritasClient } from 'auctoritas-client-vanilla';
 import pkg from '../package.json';
 import { createWrapper } from './helpers';
 

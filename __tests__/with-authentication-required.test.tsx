@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
 import withAuthenticationRequired from '../src/with-authentication-required';
 import { render, screen, waitFor } from '@testing-library/react';
-import {  AuctoritasClient, User } from '@auctoritas/client-vanilla';
+import {  AuctoritasClient, User } from 'auctoritas-client-vanilla';
 import  AuctoritasProvider from '../src/auctoritas-provider';
 import { mocked } from 'ts-jest/utils';
 

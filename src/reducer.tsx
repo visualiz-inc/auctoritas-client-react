@@ -1,4 +1,4 @@
-import { User } from '@auctoritas/client-vanilla';
+import { User } from 'auctoritas-client-vanilla';
 import { AuthState } from './auth-state';
 
 type Action =
